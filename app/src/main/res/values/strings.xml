@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab01_ButtonApp</string>
+    <string name="describeDefault">I am a random color generator. Click the button below to generate a random color.</string>
+    <string name="buttonText">Generate Random Color</string>
+</resources>
